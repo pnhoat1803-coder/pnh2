@@ -1,0 +1,143 @@
+{
+    "1466096069875073075": {
+        "last_reset_date": "2026-10-13",
+        "captchas_solved": 537,
+        "bans_detected": 0,
+        "warnings_detected": 267,
+        "hunt_count": 2,
+        "battle_count": 2,
+        "owo_count": 0,
+        "total_cmd_count": 2,
+        "other_count": 2,
+        "gems_used": 0,
+        "username": "mallyisqueen",
+        "quest_data": [
+            {
+                "description": "> gamble 5 times!",
+                "current": 0,
+                "total": 5,
+                "completed": false
+            }
+        ],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 1,
+            "total_losses": 1,
+            "total_wagered": 101,
+            "net_profit": 99,
+            "current_streak": 1,
+            "best_streak": 1,
+            "worst_streak": -1,
+            "biggest_win": 100,
+            "last_outcome": "win"
+        }
+    },
+    "972366261579288618": {
+        "last_reset_date": "2026-10-13",
+        "captchas_solved": 667,
+        "bans_detected": 0,
+        "warnings_detected": 336,
+        "hunt_count": 1,
+        "battle_count": 1,
+        "owo_count": 0,
+        "total_cmd_count": 3,
+        "other_count": 3,
+        "gems_used": 0,
+        "username": "s1renx.21",
+        "quest_data": [
+            {
+                "description": "> earn 6000 xp from hunting and battling!",
+                "current": 0,
+                "total": 6,
+                "completed": false
+            },
+            {
+                "description": "> use an action command on someone 10 times!",
+                "current": 0,
+                "total": 10,
+                "completed": false
+            },
+            {
+                "description": "> receive a cookie from 6 friends!",
+                "current": 2,
+                "total": 6,
+                "completed": false
+            }
+        ],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 0,
+            "total_losses": 5,
+            "total_wagered": 31,
+            "net_profit": -31,
+            "current_streak": -5,
+            "best_streak": 0,
+            "worst_streak": -5,
+            "biggest_win": 0,
+            "last_outcome": "loss"
+        }
+    },
+    "936079140694663249": {
+        "last_reset_date": "2026-10-13",
+        "captchas_solved": 50,
+        "bans_detected": 0,
+        "warnings_detected": 25,
+        "hunt_count": 0,
+        "battle_count": 0,
+        "owo_count": 0,
+        "total_cmd_count": 0,
+        "other_count": 0,
+        "gems_used": 0,
+        "username": "ueuez",
+        "quest_data": [
+            {
+                "description": "-# \u23f0 daily checklist resets <t:1789628400:r>",
+                "current": 0,
+                "total": 1,
+                "completed": false
+            }
+        ],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 0,
+            "total_losses": 0,
+            "total_wagered": 0,
+            "net_profit": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "worst_streak": 0,
+            "biggest_win": 0,
+            "last_outcome": null
+        }
+    },
+    "1261001872043540481": {
+        "last_reset_date": "2026-10-13",
+        "captchas_solved": 238,
+        "bans_detected": 1,
+        "warnings_detected": 129,
+        "hunt_count": 0,
+        "battle_count": 0,
+        "owo_count": 0,
+        "total_cmd_count": 0,
+        "other_count": 0,
+        "gems_used": 0,
+        "username": "84zd_",
+        "quest_data": [],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 0,
+            "total_losses": 0,
+            "total_wagered": 0,
+            "net_profit": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "worst_streak": 0,
+            "biggest_win": 0,
+            "last_outcome": null
+        }
+    }
+}

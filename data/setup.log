@@ -1,0 +1,69 @@
+[2026-09-15 21:06:21] [OK] python 3.11 found
+[2026-09-15 21:06:21] [OK] all critical imports verified
+[2026-09-15 21:45:31] [OK] python 3.11 found
+[2026-09-15 21:45:31] [OK] all critical imports verified
+[2026-09-15 21:46:57] [OK] python 3.11 found
+[2026-09-15 21:46:57] [OK] all critical imports verified
+[2026-09-15 21:49:44] [OK] python 3.11 found
+[2026-09-15 21:49:44] [OK] all critical imports verified
+[2026-09-15 21:54:04] [OK] python 3.11 found
+[2026-09-15 21:54:04] [OK] all critical imports verified
+[2026-09-15 21:55:59] [OK] python 3.11 found
+[2026-09-15 21:55:59] [OK] all critical imports verified
+[2026-09-15 21:57:23] [OK] python 3.11 found
+[2026-09-15 21:57:23] [OK] all critical imports verified
+[2026-09-15 22:20:26] [OK] python 3.11 found
+[2026-09-15 22:20:26] [OK] all critical imports verified
+[2026-09-26 22:53:32] [OK] python 3.11 found
+[2026-09-26 22:53:32] [OK] all critical imports verified
+[2026-09-27 08:50:32] [OK] python 3.11 found
+[2026-09-27 08:50:32] [OK] all critical imports verified
+[2026-09-27 09:05:35] [OK] python 3.11 found
+[2026-09-27 09:05:35] [ERROR] import check failed: discord.py-self (correct version)
+[2026-09-27 09:05:35] [INFO] setup started
+[2026-09-27 09:05:35] [INFO] running full setup...
+[2026-09-27 09:05:35] [OK] python 3.11 found
+[2026-09-27 09:05:35] [OK] git 2.55.0.windows.3 found
+[2026-09-27 09:05:35] [INFO] discord.py-self missing or incorrect – installing...
+[2026-09-27 09:06:18] [OK] discord.py-self installed correctly
+[2026-09-27 09:06:18] [INFO] checking dependencies...
+[2026-09-27 09:06:18] [OK] discord.py-self found
+[2026-09-27 09:06:18] [OK] Flask found
+[2026-09-27 09:06:18] [OK] requests found
+[2026-09-27 09:06:18] [OK] aiohttp found
+[2026-09-27 09:06:18] [OK] rich found
+[2026-09-27 09:06:18] [OK] plyer found
+[2026-09-27 09:06:19] [OK] playsound3 found
+[2026-09-27 09:06:19] [OK] python-dotenv found
+[2026-09-27 09:06:19] [OK] aiohttp-socks found
+[2026-09-27 09:06:19] [OK] nopecha found
+[2026-09-27 09:06:19] [OK] numpy found
+[2026-09-27 09:06:19] [OK] pillow found
+[2026-09-27 09:06:19] [OK] onnxruntime found
+[2026-09-27 09:06:19] [OK] all requirements already installed
+[2026-09-27 09:06:19] [OK] all critical imports verified
+[2026-09-27 09:06:19] [OK] setup complete
+[2026-09-27 09:06:19] [OK] python 3.11 found
+[2026-09-27 09:06:19] [OK] all critical imports verified
+[2026-09-27 09:15:55] [OK] python 3.11 found
+[2026-09-27 09:15:55] [OK] all critical imports verified
+[2026-09-27 10:09:01] [OK] python 3.11 found
+[2026-09-27 10:09:01] [OK] all critical imports verified
+[2026-09-29 19:58:51] [OK] python 3.11 found
+[2026-09-29 19:58:51] [OK] all critical imports verified
+[2026-09-30 19:07:18] [OK] python 3.11 found
+[2026-09-30 19:07:18] [OK] all critical imports verified
+[2026-10-01 01:46:21] [OK] python 3.11 found
+[2026-10-01 01:46:21] [OK] all critical imports verified
+[2026-10-03 19:20:24] [OK] python 3.11 found
+[2026-10-03 19:20:24] [OK] all critical imports verified
+[2026-10-03 19:55:23] [OK] python 3.11 found
+[2026-10-03 19:55:23] [OK] all critical imports verified
+[2026-10-03 20:03:05] [OK] python 3.11 found
+[2026-10-03 20:03:05] [OK] all critical imports verified
+[2026-10-04 06:47:44] [OK] python 3.11 found
+[2026-10-04 06:47:44] [OK] all critical imports verified
+[2026-10-13 19:32:18] [OK] python 3.11 found
+[2026-10-13 19:32:18] [OK] all critical imports verified
+[2026-10-13 21:50:18] [OK] python 3.11 found
+[2026-10-13 21:50:18] [OK] all critical imports verified
